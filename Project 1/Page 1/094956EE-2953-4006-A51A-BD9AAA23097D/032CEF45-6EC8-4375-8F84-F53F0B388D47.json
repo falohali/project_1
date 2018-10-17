@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "032CEF45-6EC8-4375-8F84-F53F0B388D47",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 76,
+    "width": 326,
+    "x": 31,
+    "y": 165
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "sumbols",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "18C2BDDE-8B80-4C43-BDF6-1516ECD63B36",
+      "overrideName": "FF949114-45A7-49D1-9082-A3AF73C32B95/8A73DC63-FFAA-469E-BCD6-2A6CD4455005_stringValue",
+      "value": "falohali@eagles.ewu.edu"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8E2FB74-A4A5-4E63-952F-A488ECDA5605",
+      "overrideName": "12C1A830-2056-4B78-92C1-3D2324FB235C_stringValue",
+      "value": "EMAIL"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B3F7BF5F-00CD-4DAC-982B-5C49D653E6FB",
+  "verticalSpacing": 0
+}
